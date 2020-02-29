@@ -17,8 +17,8 @@ print_info() {
     info "OS" distro
 #    info "Model" model
     info "Kernel" kernel
-    info "Uptime" uptime
-    #info "Packages" packages
+#    info "Uptime" uptime
+    info "Packages" packages
     #info "Shell" shell
     #info "Resolution" resolution
     #info underline
@@ -51,7 +51,7 @@ print_info() {
 #    prin "\033[0;30m\033[43m\033[1;43m  github.com/Phrase_knh\033[31;1;34m \033[40m\033[0;33m"
 #    prin "\033[0;30m\033[42m\033[1;42m  fikriomar16.deviantart.com \033[40m\033[0;32m"
 
-    prin "\033[40;1;34m  github.com/Phrase_knh"
+    prin "\033[40;1;34m| github.com/Phrase_knh"
 #    prin ">_< GETER SUPRA SEJUTA KENANGAN >_<"
 
     #info line_break
